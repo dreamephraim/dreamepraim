@@ -31,7 +31,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 <img alt="writing codes" width='1300' height='500' align="center" src="https://user-images.githubusercontent.com/42210784/233861858-822dc31b-5857-46b8-a037-804179e875f5.gif">
 <br clear='all'/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamephraim&show_icons=true&locale=en&layout=compact" alt="dreamephraim" /></p>
+<p>[![Mololuwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamephraim)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamephraim&show_icons=true&locale=en" alt="dreamephraim" /></p>
 
