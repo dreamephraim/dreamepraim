@@ -2,23 +2,23 @@
 #### I'm a self-motivated developer proficient in C#, C-Programming, Cybersecurity, Network defence, DevOps, Bash Scripting, Python, Javascript and I contribute to OSS. With a mission-driven attitude. I strongly believe that technology, when harnessed correctly, has the power to benefit both people and the planet. Let's Connect & Collaborate!
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamephraim&label=Profile%20views&color=0e75b6&style=flat" alt="Pius" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamephraim&label=Profile%20views&color=0e75b6&style=flat" alt="Mololuwa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamephraim" alt="Pius" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamephraim" alt="Mololuwa" /></a> </p>
 
-- 🌱 I’m currently learning **C-Programming and Python**
+- 🌱 I’m currently learning **C#-Programming and Python**
 
-- 👨‍💻 Check out my work experience on [LinkedIn](https://www.linkedin.com/in/pius-Mololuwa-802058b/)
+- 👨‍💻 Check out my work experience on [LinkedIn](https://www.linkedin.com/in/mololuwa.ajibade/)
 
-- 💬 Ask me about **Any topic in C#, asp.net, Shell Scripting, SQL Server, Javascript, Python, cybersecurity, Pentesting, Bootstrap, jQuery, Linux, networking, networksecurity, and firewall.**
+- 💬 Ask me about **Any topic in C#, asp.net, SQL Server, Javascript, Python, Tailwind, Bootstrap, jQuery, Linux, networking**
 
 - 📫 How to reach me **molo.devops@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mololuwa.ajibade?t=wvammjwu0mx0mg9whr24mg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/innocentsax?t=wvammjwu0mx0mg9whr24mg&s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/mololuwa.ajibade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mololuwa.ajibade" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mololuwa.ajibade/" target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udo-innocent-charles-2452b6200" height="30" width="40" /></a>
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mololuwa Ajibade" height="30" width="40" /></a>
 
 
 # Languages and Tools:
